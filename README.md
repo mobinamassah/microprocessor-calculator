@@ -46,7 +46,6 @@ ProjectCalculator/
 ##  Authors
 
 - Mobina Massah
-- Zahra Naderi
 
 ##  License
 
